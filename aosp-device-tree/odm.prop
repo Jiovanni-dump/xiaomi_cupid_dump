@@ -1,0 +1,4 @@
+ro.product.odm.cert=2201123G
+ro.product.odm.marketname=Xiaomi 12
+ro.vendor.audio.karaoke.enable=true
+ro.vendor.qti.va_odm.support=1

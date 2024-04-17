@@ -1,0 +1,14 @@
+# missi_phone_eea-user 14 UKQ1.230917.001 V816.0.3.0.ULCEUXM release-keys
+- manufacturer: xiaomi
+- platform: taro
+- codename: cupid
+- flavor: missi_phone_eea-user
+- release: 14
+- id: UKQ1.230917.001
+- incremental: V816.0.3.0.ULCEUXM
+- tags: release-keys
+- fingerprint: Xiaomi/cupid_eea/cupid:12/SKQ1.230401.001/V816.0.3.0.ULCEUXM:user/release-keys
+- is_ab: true
+- brand: Xiaomi
+- branch: missi_phone_eea-user-14-UKQ1.230917.001-V816.0.3.0.ULCEUXM-release-keys
+- repo: xiaomi_cupid_dump
