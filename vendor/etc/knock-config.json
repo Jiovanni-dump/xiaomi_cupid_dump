@@ -1,0 +1,14 @@
+{
+  "knockConfigs": [{
+    "displayVersion": "23",
+    "deviceProperty": 1,
+    "localAlgorithmPath": "/vendor/etc/knock_cupid_23.dlc",
+    "knockRegion": "2,2,2,2",
+    "deviceX":"16,36",
+    "knockScoreThreshold": 0.5,
+    "deviceName": "cupid",
+    "useFrame": "2",
+    "quickMoveSpeed": "2.5",
+    "sensorThreshold": "72,63,61,61"
+  }]
+}
