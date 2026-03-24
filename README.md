@@ -1,0 +1,14 @@
+# missi-user 15 AQ3A.250226.002 OS3.0.2.0.VLCEUXM release-keys
+- manufacturer: xiaomi
+- platform: taro
+- codename: cupid
+- flavor: missi-user
+- release: 15
+- id: AQ3A.250226.002
+- incremental: OS3.0.2.0.VLCEUXM
+- tags: release-keys
+- fingerprint: Xiaomi/cupid_eea/cupid:12/SKQ1.230401.001/OS3.0.2.0.VLCEUXM:user/release-keys
+- is_ab: true
+- brand: Xiaomi
+- branch: missi-user-15-AQ3A.250226.002-OS3.0.2.0.VLCEUXM-release-keys
+- repo: xiaomi_cupid_dump
