@@ -1,0 +1,17 @@
+ro.facebook.partnerid=Null
+ro.miui.google.csp=true
+ro.microsoft.onedrive_partner_code=/mi_ext/product/etc/onedrive_token.txt
+ro.product.mod_device=cupid_eea_global
+ro.miui.build.region=eea
+setupwizard.feature.enable_quick_start_flow=true
+ro.appsflyer.preinstall.path=/data/miui/pai/pre_install.appsflyer
+ro.miui.pai.preinstall.path=/data/miui/pai/
+ro.miui.customized_clientid=2
+setupwizard.feature.enable_quick_enhanced_biometrics_flow=true
+ro.vendor.imeisv=24
+ro.mi.os.flavor=phone
+ro.mi.os.version.publish=true
+ro.mi.os.version.code=2
+ro.mi.os.version.name=OS2.0
+ro.mi.os.version.incremental=OS2.0.211.0.VLCEUXM
+ro.build.version.smr_baseversion=OS2.0.210.0.VLCEUXM
