@@ -1,0 +1,5 @@
+service knockalg /odm/bin/xiaomi.knock.algorithm-service
+    interface aidl  xiaomi.knock.algorithm.IKnockAlgorithm/default
+    class main
+    user system
+    group system
